@@ -1,6 +1,6 @@
 # Docker Web Server
 
-A comprehensive guide for containerizing a simple web application and deploying it using Docker.
+A comprehensive guide for containerizing a simple web application and deploying it with using Docker.
 
 ## Overview
 
